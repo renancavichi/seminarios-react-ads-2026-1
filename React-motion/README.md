@@ -15,13 +15,12 @@ Demonstração dos principais recursos de animação utilizando Framer Motion no
 ## Instalação
 
 ```bash
-npm install
+npm i
 ```
 
 ## Executando o projeto
 
 ```bash
-npm i 
 npm run dev
 ```
 
