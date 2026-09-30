@@ -7,6 +7,7 @@ Apresentações realizadas como requisito da disciplina de Desenvolvimento Web I
 - React Hook Forms (Eduarda Gonçalves [@Edualnd](https://github.com/Edualnd))
 - Mantine UI (Arthur de Morais [@ArthurTiso](https://github.com/ArthurTiso)) e (Vinicius Garcia [@vinikyo](https://github.com/vinikyo))
 - Base UI (Emerson Soares [@emersonsoasilva](https://github.com/emersonsoasilva))
+- Motion Frame ([Vitor Ramos Menezes](https://github.com/Vitorram))
 
 ##### Orientações
 
