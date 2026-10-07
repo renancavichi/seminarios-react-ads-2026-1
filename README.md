@@ -4,11 +4,15 @@ Apresentações realizadas como requisito da disciplina de Desenvolvimento Web I
 
 ### Apresentações
 
+- Material UI (Felipe Pastore Cursino [@felsslef](https://github.com/felsslef)) e (Leticia Pacheco Cabral [@leticia-pachecoo](https://github.com/leticia-pachecoo)) e (Muriel Roseo do Nascimento Neto [@MauricioRoseo](https://github.com/MauricioRoseo))
 - React Hook Forms (Eduarda Gonçalves [@Edualnd](https://github.com/Edualnd))
 - Mantine UI (Arthur de Morais [@ArthurTiso](https://github.com/ArthurTiso)) e (Vinicius Garcia [@vinikyo](https://github.com/vinikyo))
 - Base UI (Emerson Soares [@emersonsoasilva](https://github.com/emersonsoasilva))
 - Motion Frame ([Vitor Ramos Menezes](https://github.com/Vitorram))
-- React Uploady ([kevin4bmael], (https://github.com/kevin4bmael/meu-projeto-uploady)), ([carvalhoTG], (https://github.com/carvalhoTG)), ([ana-andrades], (https://github.com/ana-andrades))
+- React Uploady ([@kevin4bmael], https://github.com/kevin4bmael/meu-projeto-uploady)
+- Typescript (Luan Ibanhez de Almeida [@luanibanhez](https://github.com/luaniban)) e (Murillo Diogo dos Santos Moreira [@murillodiogo](https://github.com/mrllmoreira))
+- Skills Claude Code ([Robert Cortez Rudi](https://github.com/Robert-Cortez-Rudi) e [Hyan Ferreira](https://github.com/HyanFerreira)) 
+
 
 ##### Orientações
 
