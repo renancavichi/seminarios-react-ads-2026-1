@@ -9,6 +9,7 @@ Apresentações realizadas como requisito da disciplina de Desenvolvimento Web I
 - Base UI (Emerson Soares [@emersonsoasilva](https://github.com/emersonsoasilva))
 - Motion Frame ([Vitor Ramos Menezes](https://github.com/Vitorram))
 - React Uploady ([@kevin4bmael], https://github.com/kevin4bmael/meu-projeto-uploady)
+- Typescript (Luan Ibanhez de Almeida [@luanibanhez](https://github.com/luaniban)) e (Murillo Diogo dos Santos Moreira [@murillodiogo](https://github.com/mrllmoreira))
 
 ##### Orientações
 
