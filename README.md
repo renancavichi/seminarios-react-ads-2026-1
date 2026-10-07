@@ -4,6 +4,7 @@ Apresentações realizadas como requisito da disciplina de Desenvolvimento Web I
 
 ### Apresentações
 
+- Material UI (Felipe Pastore Cursino [@felsslef](https://github.com/felsslef)) e (Leticia Pacheco Cabral [@leticia-pachecoo](https://github.com/leticia-pachecoo)) e (Muriel Roseo do Nascimento Neto [@MauricioRoseo](https://github.com/MauricioRoseo))
 - React Hook Forms (Eduarda Gonçalves [@Edualnd](https://github.com/Edualnd))
 - Mantine UI (Arthur de Morais [@ArthurTiso](https://github.com/ArthurTiso)) e (Vinicius Garcia [@vinikyo](https://github.com/vinikyo))
 - Base UI (Emerson Soares [@emersonsoasilva](https://github.com/emersonsoasilva))
